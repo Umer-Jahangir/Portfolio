@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import profileImage from '../../assets/portfolioImage.png';
+import profileImage from '../../assets/PortfolioImage.png';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { FaSquareXTwitter } from 'react-icons/fa6';
 import { FaDev } from "react-icons/fa6";
