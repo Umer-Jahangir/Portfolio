@@ -6,7 +6,7 @@ import {
   RiMoonLine
 } from '@remixicon/react';
 
-const PDF_FILE_URL = 'http://localhost:5173/UmerJahangirResume.pdf'; // Replace with actual PDF if deployed
+const PDF_FILE_URL = '/UmerJahangirResume.pdf';
 
 const Navbar = ({ isDarkMode, toggleTheme }) => {
   const [menu, setMenu] = useState(false);
